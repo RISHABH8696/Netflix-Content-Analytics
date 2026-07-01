@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,Dick Johnson,United States,"September 25, 2021",2020,PG-13,90 min,Documentaries,A documentary about a father.
+s2,TV Show,Blood & Water,Nosipho Dumisa,Ama Qamata,South Africa,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas",A teenage girl investigates a family secret.
+s3,Movie,The Starling,Theodore Melfi,Melissa McCarthy,United States,"September 24, 2021",2021,PG-13,104 min,"Comedies, Dramas",A woman struggles after a tragic loss.
+s4,Movie,Intrusion,Adam Salky,Freida Pinto,United States,"September 22, 2021",2021,TV-14,93 min,"Thrillers, Dramas",A woman becomes suspicious after a break-in.
+s5,TV Show,Midnight Mass,Mike Flanagan,Zach Gilford,United States,"September 24, 2021",2021,TV-MA,1 Season,"TV Dramas, Horror",A mysterious priest arrives on an island.
+s6,Movie,My Little Pony,Robert Cullen,Vanessa Hudgens,Canada,"September 24, 2021",2021,PG,91 min,"Children & Family Movies, Animation",Ponies unite to save their world.
+s7,Movie,Avvai Shanmugi,K. S. Ravikumar,Kamal Haasan,India,"January 1, 2018",1996,U,160 min,"Comedies, International Movies",A father disguises himself as a nanny.
+s8,Movie,Dangal,Nitesh Tiwari,Aamir Khan,India,"March 21, 2018",2016,PG,161 min,"Dramas, Sports Movies",A wrestler trains his daughters.
+s9,TV Show,Squid Game,Hwang Dong-hyuk,Lee Jung-jae,South Korea,"September 17, 2021",2021,TV-MA,1 Season,"International TV Shows, Thrillers",Contestants play deadly games.
+s10,Movie,RRR,S. S. Rajamouli,Ram Charan,India,"May 20, 2022",2022,TV-14,182 min,"Action & Adventure, Dramas",Two revolutionaries fight against British rule.
